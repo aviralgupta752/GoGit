@@ -62,3 +62,5 @@ If ```git add -p``` were to be used:<br>
 <b>Ques - 1 Why do we do fetch before the merge or pull?</b><br>
 Before working on a new feature, we generally would want to work on top of the features already made by other contributors. To retrieve these changes from the remote repo, we do a fetch & merge or pull.
 
+## Issue 470
+First Issue
