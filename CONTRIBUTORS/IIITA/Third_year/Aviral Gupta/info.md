@@ -78,3 +78,6 @@ A tree object conatains references to other blobs or subtreese(subdirectories).<
 <b>Ques 1 - Why would one ever need to ever reorder his commits?</b><br>
 Reordering of commits is done, if the commits makes more sense in reordered form or if the commits are to be squashed.
 
+<b>Ques 2 - What are Git Submodules? Why are they used?</b><br>
+Git Submodules allows us to keep a git repo as a subdirectory of another git repo. They enable a Git repository to track version history of external code.<br>
+Main use of it I found was to integrate the work of two different parties. One can also track changes in several repositories via a central one repo.
