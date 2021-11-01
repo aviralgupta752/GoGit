@@ -74,3 +74,7 @@ All the commits are stored as hashes in the <b>objects</b> folder.<br>
 A blob object is used to store the contents of a single file.<br>
 A tree object conatains references to other blobs or subtreese(subdirectories).<br>
 
+## Issue 443
+<b>Ques 1 - Why would one ever need to ever reorder his commits?</b><br>
+Reordering of commits is done, if the commits makes more sense in reordered form or if the commits are to be squashed.
+
